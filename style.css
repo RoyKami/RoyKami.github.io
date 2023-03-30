@@ -51,7 +51,9 @@ style {
     padding: 0px 0.5rem;
     max-width: 40rem;
   }
-  
+  .bio img{
+    max-width: 100%;
+  }
   .bio > h2 {
     margin-bottom: 1rem;
     font-size: 3rem;
