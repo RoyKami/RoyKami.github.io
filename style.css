@@ -43,8 +43,8 @@ style {
   }
   
   .tribute img {
-    width: 100%;
-      height: auto;
+    max-width: 100%;
+    height: auto;
   }
   
   .bio {
@@ -54,6 +54,7 @@ style {
   }
   .bio img{
     max-width: 100%;
+    height: auto;
   }
   .bio > h2 {
     margin-bottom: 1rem;
