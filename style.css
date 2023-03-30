@@ -28,11 +28,11 @@ style {
   
   .tribute {
     display: grid;
-    grid-template-columns: 2fr 1fr;
-    max-width: 78rem;
+    grid-template-columns: 2fr;
+    max-width: 48rem;
     margin: 0px auto;
     background: rgb(60, 74, 80);
-    color: black;
+    color: rgb(255, 255, 255);
     align-items: center;
     padding: 0px 0px 0px 1rem;
   }
@@ -42,10 +42,7 @@ style {
     font-size: 3rem;
   }
   
-  .tribute img {
-    max-width: 100%;
-    height: auto;
-  }
+
   
   .bio {
     margin: 2rem auto;
